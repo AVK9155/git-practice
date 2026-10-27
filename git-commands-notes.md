@@ -5,3 +5,4 @@
 - git add: stages files
 - git commit -m: saves staged changes
 - git log: shows history
+- git diff: shows unstaged changes
